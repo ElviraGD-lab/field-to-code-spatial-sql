@@ -8,4 +8,6 @@ Este libro enseña bases de datos a quien nunca ha trabajado con ellas. Empezamo
 
 El código de cada lección se puede copiar y ejecutar tal cual.
 
+Empieza por [Cómo trabajar con el libro](about.md) y el [Prólogo](00-prologue.md).
+
 *Libro en elaboración. Las lecciones se publican a medida que se escriben.*

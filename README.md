@@ -6,7 +6,9 @@ An open book on **PostgreSQL and PostGIS**, written for engineers and field spec
 
 Book 4 of the *From Field to Code* series. Written in Spanish and English.
 
-> Status: work in progress (started November 2026).
+**Read the book:** https://elviragd-lab.github.io/field-to-code-spatial-sql/ · [Español](https://elviragd-lab.github.io/field-to-code-spatial-sql/es/) · [English](https://elviragd-lab.github.io/field-to-code-spatial-sql/en/)
+
+> Status: work in progress (started November 2026). Published so far: how to work with the book, the prologue and lesson 1.1.
 
 ## The data
 
@@ -14,7 +16,7 @@ Every chapter works on real open data from Asturias (Spain), most of it from the
 
 ## Run the code
 
-Every SQL block in the book is also in a tested script in [`code/`](code/). The scripts run top to bottom without errors on PostgreSQL 18 with PostGIS.
+Every SQL block in the book is also in a script in [`code/`](code/), one per chapter. Each script is run top to bottom on PostgreSQL 18 with PostGIS 3.6 before it is published. The first script arrives with lesson 1.3.
 
 ## The series
 

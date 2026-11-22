@@ -8,4 +8,6 @@ This book teaches databases to readers who have never worked with one. We start 
 
 The code in every lesson can be copied and run as it is.
 
+Start with [How to work with this book](about.md) and the [Prologue](00-prologue.md).
+
 *Work in progress. Lessons are published as they are written.*
