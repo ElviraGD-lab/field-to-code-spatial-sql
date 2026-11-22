@@ -1,0 +1,39 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: field-to-code-spatial-sql
+  title: "From Field to Code: Spatial SQL from Scratch"
+  subtitle: "Del campo al código: SQL espacial desde cero"
+  description: >-
+    An open book that teaches PostgreSQL and PostGIS from scratch: what a
+    database is and how to install one, the SQL used every day in companies,
+    and spatial SQL with PostGIS, always on real data from Asturias (Spain)
+    and the Pajares project on forests, storms and power lines. Spanish and
+    English.
+  keywords:
+    - SQL
+    - PostgreSQL
+    - PostGIS
+    - spatial databases
+    - bases de datos espaciales
+    - Asturias
+  authors:
+    - name: Elvira Gayanova
+      orcid: 0009-0002-4252-311X
+  license:
+    content: CC-BY-4.0
+    code: Apache-2.0
+  github: https://github.com/ElviraGD-lab/field-to-code-spatial-sql
+  toc:
+    - file: index.md
+    - title: Español
+      children:
+        - file: es/index.md
+    - title: English
+      children:
+        - file: en/index.md
+site:
+  template: book-theme
+  options:
+    logo_text: From Field to Code
+    folders: true
