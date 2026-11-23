@@ -8,7 +8,7 @@ Book 4 of the *From Field to Code* series. Written in Spanish and English.
 
 **Read the book:** https://elviragd-lab.github.io/field-to-code-spatial-sql/ · [Español](https://elviragd-lab.github.io/field-to-code-spatial-sql/es/) · [English](https://elviragd-lab.github.io/field-to-code-spatial-sql/en/)
 
-> Status: work in progress (started November 2026). Published so far: how to work with the book, the prologue and lesson 1.1.
+> Status: work in progress (started November 2026). Published so far: how to work with the book, the prologue and lessons 1.1–1.2.
 
 ## The data
 
@@ -31,6 +31,10 @@ npm install -g mystmd@1.12.0
 cd book
 myst start
 ```
+
+## Found a mistake?
+
+Please tell us through an issue. How to do it: [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Licence
 

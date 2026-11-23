@@ -19,3 +19,20 @@ title: "Answers to the exercises"
 
 [Back to the lesson](#en-ch01-l01-lesson)
 
+(en-ch01-l02)=
+## Lesson 1.2. Installing PostgreSQL on our computer
+
+1. **Recall.** Which psql command shows which database we're connected to, as which user and through which port?
+
+   **Answer:** `\conninfo`.
+
+2. **Fix.** We typed `SELECT version()` and pressed Enter. The server says nothing, and the prompt has changed to `admin-#`. What do we need to type?
+
+   **Answer:** `;` and Enter: a question in SQL ends with a semicolon.
+
+3. **Look back (Lesson 1.1).** What's the number of the 'door' that clients knock on to reach the PostgreSQL server, and what is that door called?
+
+   **Answer:** port 5432.
+
+[Back to the lesson](#en-ch01-l02-lesson)
+

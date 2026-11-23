@@ -19,3 +19,20 @@ title: "Respuestas a los ejercicios"
 
 [Volver a la lección](#es-ch01-l01-lesson)
 
+(es-ch01-l02)=
+## Lección 1.2. Instalamos PostgreSQL en el ordenador
+
+1. **Recordar.** ¿Con qué comando nos muestra psql a qué base de datos, con qué usuario y por qué puerto estamos conectados?
+
+   **Respuesta:** `\conninfo`.
+
+2. **Corregir.** Hemos escrito `SELECT version()` y hemos pulsado Enter. El servidor no dice nada y el prompt ha pasado a `admin-#`. ¿Qué tenemos que escribir?
+
+   **Respuesta:** `;` y Enter: una pregunta en SQL termina con punto y coma.
+
+3. **Recordar lo anterior (lección 1.1).** ¿Qué número tiene la «puerta» por la que los clientes llaman al servidor PostgreSQL y cómo se llama esa puerta?
+
+   **Respuesta:** puerto 5432.
+
+[Volver a la lección](#es-ch01-l02-lesson)
+
