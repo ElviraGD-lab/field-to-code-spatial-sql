@@ -36,3 +36,20 @@ title: "Answers to the exercises"
 
 [Back to the lesson](#en-ch01-l02-lesson)
 
+(en-ch01-l03)=
+## Lesson 1.3. Our first database
+
+1. **Recall.** Which psql command shows the list of all the databases on the server?
+
+   **Answer:** `\l`.
+
+2. **Fix.** A colleague typed `CREATE DATABASE Pajares Risk;` and got an error. How should the command be written, following our rule for names?
+
+   **Answer:** `CREATE DATABASE pajares_risk;`: in lower case, with an underscore instead of a space.
+
+3. **Look back (Lesson 1.2).** Which psql command shows which database we're connected to, as which user and through which port?
+
+   **Answer:** `\conninfo`.
+
+[Back to the lesson](#en-ch01-l03-lesson)
+

@@ -35,6 +35,7 @@ project:
           children:
             - file: es/01-start/01-how-postgres-works.md
             - file: es/01-start/02-install-postgres.md
+            - file: es/01-start/03-first-database.md
         - file: es/solutions.md
     - title: English
       children:
@@ -45,6 +46,7 @@ project:
           children:
             - file: en/01-start/01-how-postgres-works.md
             - file: en/01-start/02-install-postgres.md
+            - file: en/01-start/03-first-database.md
         - file: en/solutions.md
 site:
   template: book-theme

@@ -36,3 +36,20 @@ title: "Respuestas a los ejercicios"
 
 [Volver a la lección](#es-ch01-l02-lesson)
 
+(es-ch01-l03)=
+## Lección 1.3. Nuestra primera base de datos
+
+1. **Recordar.** ¿Con qué comando nos muestra psql la lista de todas las bases de datos del servidor?
+
+   **Respuesta:** `\l`.
+
+2. **Corregir.** Un compañero ha escrito `CREATE DATABASE Pajares Risk;` y le ha dado error. ¿Cómo se escribe bien el comando, según nuestra regla de los nombres?
+
+   **Respuesta:** `CREATE DATABASE pajares_risk;`: en minúsculas y con guion bajo en lugar del espacio.
+
+3. **Recordar lo anterior (lección 1.2).** ¿Con qué comando nos muestra psql a qué base de datos, con qué usuario y por qué puerto estamos conectados?
+
+   **Respuesta:** `\conninfo`.
+
+[Volver a la lección](#es-ch01-l03-lesson)
+
