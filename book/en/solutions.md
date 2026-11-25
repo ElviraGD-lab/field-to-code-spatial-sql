@@ -53,3 +53,20 @@ title: "Answers to the exercises"
 
 [Back to the lesson](#en-ch01-l03-lesson)
 
+(en-ch02-l01)=
+## Lesson 2.1. Describing a tower: our first table
+
+1. **Recall.** Which type did we choose for the column that stores a 'yes or no' answer?
+
+   **Answer:** `boolean`.
+
+2. **Fix.** A colleague described the spans table like this: `CREATE TABLE spans (span_label text PRIMARY KEY, length_m text);`. We're going to add up and compare span lengths. What needs fixing?
+
+   **Answer:** the type of the length: `length_m numeric`.
+
+3. **Look back (Lesson 1.1).** How do we write the full address of our towers table, the one `\d` showed us?
+
+   **Answer:** `public.towers`.
+
+[Back to the lesson](#en-ch02-l01-lesson)
+

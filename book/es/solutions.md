@@ -53,3 +53,20 @@ title: "Respuestas a los ejercicios"
 
 [Volver a la lección](#es-ch01-l03-lesson)
 
+(es-ch02-l01)=
+## Lección 2.1. Describimos un apoyo: la primera tabla
+
+1. **Recordar.** ¿Qué tipo elegimos para la columna que guarda una respuesta de «sí o no»?
+
+   **Respuesta:** `boolean`.
+
+2. **Corregir.** Un compañero ha descrito la tabla de vanos así: `CREATE TABLE spans (span_label text PRIMARY KEY, length_m text);`. La longitud de los vanos la vamos a sumar y comparar. ¿Qué hay que corregir?
+
+   **Respuesta:** el tipo de la longitud: `length_m numeric`.
+
+3. **Recordar lo anterior (lección 1.1).** ¿Cómo se escribe la dirección completa de nuestra tabla de apoyos, la que nos ha mostrado `\d`?
+
+   **Respuesta:** `public.towers`.
+
+[Volver a la lección](#es-ch02-l01-lesson)
+
