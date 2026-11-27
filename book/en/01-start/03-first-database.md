@@ -222,6 +222,6 @@ The `spatial_sql` database exists, but it's empty. To put the towers into it, we
 
 ## Sources
 
-- PostgreSQL 18 Documentation, CREATE DATABASE – https://www.postgresql.org/docs/18/sql-createdatabase.html
-- PostgreSQL 18 Documentation, Template Databases – https://www.postgresql.org/docs/18/manage-ag-templatedbs.html
-- PostgreSQL 18 Documentation, psql – https://www.postgresql.org/docs/18/app-psql.html
+- PostgreSQL 18 Documentation, CREATE DATABASE – https://www.postgresql.org/docs/18/sql-createdatabase.html (checked 27 November 2026)
+- PostgreSQL 18 Documentation, Template Databases – https://www.postgresql.org/docs/18/manage-ag-templatedbs.html (checked 27 November 2026)
+- PostgreSQL 18 Documentation, psql – https://www.postgresql.org/docs/18/app-psql.html (checked 27 November 2026)

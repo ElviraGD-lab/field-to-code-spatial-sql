@@ -197,7 +197,7 @@ La tabla está lista, pero no tiene ni un apoyo. ¿Cómo cargamos los 33 apoyos 
 
 ## Fuentes
 
-- PostgreSQL 18 Documentation, CREATE TABLE — https://www.postgresql.org/docs/18/sql-createtable.html
-- PostgreSQL 18 Documentation, Data Types — https://www.postgresql.org/docs/18/datatype.html
-- PostgreSQL 18 Documentation, Constraints — https://www.postgresql.org/docs/18/ddl-constraints.html
+- PostgreSQL 18 Documentation, CREATE TABLE — https://www.postgresql.org/docs/18/sql-createtable.html (consultado el 27.11.2026)
+- PostgreSQL 18 Documentation, Data Types — https://www.postgresql.org/docs/18/datatype.html (consultado el 27.11.2026)
+- PostgreSQL 18 Documentation, Constraints — https://www.postgresql.org/docs/18/ddl-constraints.html (consultado el 27.11.2026)
 - Datos: apoyos de las líneas de 400 kV de Pajares, proyecto Pajares (datos derivados; © colaboradores de OpenStreetMap, ODbL; LiDAR PNOA cedido por © IGN).

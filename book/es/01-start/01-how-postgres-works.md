@@ -170,5 +170,5 @@ Si lleváramos el proyecto Pajares junto con un compañero de una empresa eléct
 
 ## Fuentes
 
-- PostgreSQL 18 Documentation, Chapter 1 «Getting Started», 1.2 «Architectural Fundamentals» — https://www.postgresql.org/docs/18/tutorial-arch.html
-- PostGIS 3.6 Manual — https://postgis.net/docs/
+- PostgreSQL 18 Documentation, Chapter 1 «Getting Started», 1.2 «Architectural Fundamentals» — https://www.postgresql.org/docs/18/tutorial-arch.html (consultado el 27.11.2026)
+- PostGIS 3.6 Manual — https://postgis.net/docs/ (consultado el 27.11.2026)

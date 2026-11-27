@@ -253,8 +253,8 @@ The server is running, and psql connects to it. But our `admin` database was cre
 
 ## Sources
 
-- Postgres.app, Installing Postgres.app – https://postgresapp.com/documentation/install.html
-- PostgreSQL, Windows installers – https://www.postgresql.org/download/windows/
-- PostGIS, Windows installation (released versions) – https://postgis.net/documentation/getting_started/install_windows/released_versions/
-- PostgreSQL, Linux downloads (Ubuntu) – https://www.postgresql.org/download/linux/ubuntu/
-- PostgreSQL 18 Documentation, psql – https://www.postgresql.org/docs/18/app-psql.html
+- Postgres.app, Installing Postgres.app – https://postgresapp.com/documentation/install.html (checked 27 November 2026)
+- PostgreSQL, Windows installers – https://www.postgresql.org/download/windows/ (checked 27 November 2026)
+- PostGIS, Windows installation (released versions) – https://postgis.net/documentation/getting_started/install_windows/released_versions/ (checked 27 November 2026)
+- PostgreSQL, Linux downloads (Ubuntu) – https://www.postgresql.org/download/linux/ubuntu/ (checked 27 November 2026)
+- PostgreSQL 18 Documentation, psql – https://www.postgresql.org/docs/18/app-psql.html (checked 27 November 2026)

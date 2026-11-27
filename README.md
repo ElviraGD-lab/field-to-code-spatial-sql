@@ -8,7 +8,7 @@ Book 4 of the *From Field to Code* series. Written in Spanish and English.
 
 **Read the book:** https://elviragd-lab.github.io/field-to-code-spatial-sql/ · [Español](https://elviragd-lab.github.io/field-to-code-spatial-sql/es/) · [English](https://elviragd-lab.github.io/field-to-code-spatial-sql/en/)
 
-> Status: work in progress (started November 2026). Published so far: how to work with the book, the prologue and chapter 1 (lessons 1.1–1.3) and lesson 2.1.
+> Status: work in progress (started November 2026). Published so far: how to work with the book, the prologue and chapters 1–2 (lessons 1.1–2.2) and lesson 3.1.
 
 ## The data
 

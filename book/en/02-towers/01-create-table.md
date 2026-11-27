@@ -197,7 +197,7 @@ The table is ready, but there isn't a single tower in it. How do we load the 33 
 
 ## Sources
 
-- PostgreSQL 18 Documentation, CREATE TABLE – https://www.postgresql.org/docs/18/sql-createtable.html
-- PostgreSQL 18 Documentation, Data Types – https://www.postgresql.org/docs/18/datatype.html
-- PostgreSQL 18 Documentation, Constraints – https://www.postgresql.org/docs/18/ddl-constraints.html
+- PostgreSQL 18 Documentation, CREATE TABLE – https://www.postgresql.org/docs/18/sql-createtable.html (checked 27 November 2026)
+- PostgreSQL 18 Documentation, Data Types – https://www.postgresql.org/docs/18/datatype.html (checked 27 November 2026)
+- PostgreSQL 18 Documentation, Constraints – https://www.postgresql.org/docs/18/ddl-constraints.html (checked 27 November 2026)
 - Data: towers of the Pajares 400 kV lines, Pajares project (derived data; © OpenStreetMap contributors, ODbL; lidar PNOA cedido por © IGN).

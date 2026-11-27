@@ -222,6 +222,6 @@ La base `spatial_sql` ya existe, pero está vacía. Para meter en ella los apoyo
 
 ## Fuentes
 
-- PostgreSQL 18 Documentation, CREATE DATABASE — https://www.postgresql.org/docs/18/sql-createdatabase.html
-- PostgreSQL 18 Documentation, Template Databases — https://www.postgresql.org/docs/18/manage-ag-templatedbs.html
-- PostgreSQL 18 Documentation, psql — https://www.postgresql.org/docs/18/app-psql.html
+- PostgreSQL 18 Documentation, CREATE DATABASE — https://www.postgresql.org/docs/18/sql-createdatabase.html (consultado el 27.11.2026)
+- PostgreSQL 18 Documentation, Template Databases — https://www.postgresql.org/docs/18/manage-ag-templatedbs.html (consultado el 27.11.2026)
+- PostgreSQL 18 Documentation, psql — https://www.postgresql.org/docs/18/app-psql.html (consultado el 27.11.2026)

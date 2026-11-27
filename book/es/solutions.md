@@ -70,3 +70,37 @@ title: "Respuestas a los ejercicios"
 
 [Volver a la lección](#es-ch02-l01-lesson)
 
+(es-ch02-l02)=
+## Lección 2.2. Cargamos los apoyos y los contamos
+
+1. **Recordar.** ¿Qué opción de `\copy` le dice al servidor que la primera línea del archivo es la cabecera?
+
+   **Respuesta:** `HEADER true`.
+
+2. **Corregir.** Un compañero quiere contar los apoyos y escribe `SELECT count FROM towers;`. ¿Qué falta?
+
+   **Respuesta:** los paréntesis con el asterisco: `SELECT count(*) FROM towers;`.
+
+3. **Recordar lo anterior (lección 1.3).** ¿Cómo nos conectamos a la base `spatial_sql` directamente desde el Terminal, sin pasar por `\c`?
+
+   **Respuesta:** `psql -d spatial_sql`.
+
+[Volver a la lección](#es-ch02-l02-lesson)
+
+(es-ch03-l01)=
+## Lección 3.1. Qué apoyos miden más de 35 metros
+
+1. **Recordar.** ¿Qué palabra de la consulta deja solo las filas que cumplen una condición?
+
+   **Respuesta:** `WHERE`.
+
+2. **Corregir.** Un compañero busca los apoyos de la línea N y escribe `SELECT label FROM towers WHERE lines = N;`. El servidor le ha respondido con un error. ¿Qué hay que corregir?
+
+   **Respuesta:** poner el texto entre comillas simples: `WHERE lines = 'N'`.
+
+3. **Recordar lo anterior (lección 2.2).** ¿Con qué consulta comprobamos que la tabla tenía 33 apoyos?
+
+   **Respuesta:** `SELECT count(*) FROM towers;`.
+
+[Volver a la lección](#es-ch03-l01-lesson)
+

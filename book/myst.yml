@@ -39,6 +39,10 @@ project:
         - file: es/02-towers/index.md
           children:
             - file: es/02-towers/01-create-table.md
+            - file: es/02-towers/02-load-towers.md
+        - file: es/03-queries/index.md
+          children:
+            - file: es/03-queries/01-where.md
         - file: es/solutions.md
     - title: English
       children:
@@ -53,6 +57,10 @@ project:
         - file: en/02-towers/index.md
           children:
             - file: en/02-towers/01-create-table.md
+            - file: en/02-towers/02-load-towers.md
+        - file: en/03-queries/index.md
+          children:
+            - file: en/03-queries/01-where.md
         - file: en/solutions.md
 site:
   template: book-theme

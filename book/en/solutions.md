@@ -70,3 +70,37 @@ title: "Answers to the exercises"
 
 [Back to the lesson](#en-ch02-l01-lesson)
 
+(en-ch02-l02)=
+## Lesson 2.2. Loading the towers and counting them
+
+1. **Recall.** Which setting in `\copy` tells the server that the first line of the file is a header?
+
+   **Answer:** `HEADER true`.
+
+2. **Fix.** A colleague wants to count the towers and writes `SELECT count FROM towers;`. What's missing?
+
+   **Answer:** the brackets with the asterisk: `SELECT count(*) FROM towers;`.
+
+3. **Look back (Lesson 1.3).** How do we connect to the `spatial_sql` database straight from the Terminal, without switching with `\c`?
+
+   **Answer:** `psql -d spatial_sql`.
+
+[Back to the lesson](#en-ch02-l02-lesson)
+
+(en-ch03-l01)=
+## Lesson 3.1. Which towers are taller than 35 metres
+
+1. **Recall.** Which word in a query keeps only the rows that meet a condition?
+
+   **Answer:** `WHERE`.
+
+2. **Fix.** A colleague is looking for the towers on line N and writes `SELECT label FROM towers WHERE lines = N;`. The server replied with an error. What needs fixing?
+
+   **Answer:** the text needs single quotes: `WHERE lines = 'N'`.
+
+3. **Look back (Lesson 2.2).** Which query did we use to check that the table has 33 towers?
+
+   **Answer:** `SELECT count(*) FROM towers;`.
+
+[Back to the lesson](#en-ch03-l01-lesson)
+

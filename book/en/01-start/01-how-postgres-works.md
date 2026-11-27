@@ -170,5 +170,5 @@ If we were running the Pajares project together with a colleague from a power ut
 
 ## Sources
 
-- PostgreSQL 18 Documentation, Chapter 1 'Getting Started', 1.2 'Architectural Fundamentals' – https://www.postgresql.org/docs/18/tutorial-arch.html
-- PostGIS 3.6 Manual – https://postgis.net/docs/
+- PostgreSQL 18 Documentation, Chapter 1 'Getting Started', 1.2 'Architectural Fundamentals' – https://www.postgresql.org/docs/18/tutorial-arch.html (checked 27 November 2026)
+- PostGIS 3.6 Manual – https://postgis.net/docs/ (checked 27 November 2026)

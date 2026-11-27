@@ -5,9 +5,11 @@
 _build/
 node_modules/
 
-# Data: never in git, it is downloaded again (see data/README.md)
+# Data: large datasets never in git, they are downloaded again (see data/README.md).
+# Small files that the lessons load are listed one by one.
 data/*
 !data/README.md
+!data/towers.csv
 *.zip
 *.tif
 *.tiff
